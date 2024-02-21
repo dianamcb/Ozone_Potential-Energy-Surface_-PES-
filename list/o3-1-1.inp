@@ -1,0 +1,13 @@
+#UHF/6-31G(d) guess=mix stable scf=(tight,qc) test
+
+o3 
+
+0 1
+O
+O 1 r1
+O 1 r1 2 a2
+
+r1 = 1.0
+a2 = 60.0
+
+
