@@ -1,3 +1,7 @@
+# Author: Diana Marlen Castaneda Bagatella
+# Description: This script extract the data such as the bond, angle and energy of each structure that was submitted to the Gaussian calculation and then export the table to a dat file. 
+# Run as: sbatch tabla.sh
+
 #!/bin/bash
 
 p=$(echo "scale=4; 1 / 45" | bc -l)
