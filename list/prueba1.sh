@@ -1,3 +1,7 @@
+# Author: Diana Marlen Castaneda Bagatella
+# Description: This script change the angle between the oxygens and stretch the bond with the purpose to generate different input files for Gaussian as ZMatrices. 
+# Run as: sbatch tabla.sh
+
 #!/bin/bash
 
 #cat << EOF
